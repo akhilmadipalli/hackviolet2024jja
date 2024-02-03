@@ -1,5 +1,6 @@
 import pdfplumber
 import re
+
 from lists import feminine_coded_words, masculine_coded_words
 
 
