@@ -14,4 +14,3 @@ for bias in masculine_coded_words:
     for word in resume:
         if word.startswith(bias):
             print(word)
-print(resume)
